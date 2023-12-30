@@ -71,12 +71,12 @@ skills:
         description: ''
         percent: 60
         icon: dumbbell
-        icon_pack: fab
+        icon_pack: fas
       - name: Rap
         description: ''
         percent: 60
         icon: microphone
-        icon_pack: fab
+        icon_pack: fas
       - name: Youtube
         description: ''
         percent: 100
