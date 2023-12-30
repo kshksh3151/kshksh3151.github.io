@@ -37,11 +37,11 @@ interests:
 education:
   courses:
     - course: M.S. in Chemistry
-      institution: Pohang University of Science and Technology(POSTECH)
-      year: 2023.09 ~ Ongoing
-    - course: B.S. in Chemistry(Minor in Physics)
-      institution: Daegu Gyeongbook Institution of Science and Technology(DGIST)
-      year: 2019.02 ~ 2023.08
+      institution: 2023.09 ~           Pohang University of Science and Technology(POSTECH)
+      year: ''
+    - course: B.S. in Undergraduate Study
+      institution: 2019.02 ~ 2023.08   Daegu Gyeongbook Institution of Science and Technology(DGIST)
+      year: ''
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -116,5 +116,5 @@ social:
 highlight_name: true
 ---
 
-I am a M.S. student at Computational Energy/Bio Soft Materials Lab(POSTECH). My research interests is developing new molecular dynamics simulation tools and polarization effect at electrified interfaces. I actively work to integrate my knowledge based on physics, chemistry, and mathmatics for developing or applying molecular simulations to solve various problems in chemistry.
+I am a master student at Computational Energy/Bio Soft Materials Lab(POSTECH). My research interests is developing new molecular dynamics simulation tools and polarization effect at electrified interfaces. I actively work to integrate my knowledge based on physics, chemistry, and mathmatics for developing or applying molecular simulations to solve various problems in chemistry.
 {style="text-align: justify;"}
