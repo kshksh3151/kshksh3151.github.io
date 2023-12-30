@@ -58,7 +58,7 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Data Visuallization
         description: ''
         percent: 90
         icon: chart-line
@@ -72,7 +72,7 @@ skills:
         percent: 60
         icon: dumbbell
         icon_pack: fas
-      - name: Rap
+      - name: Music
         description: ''
         percent: 60
         icon: microphone
