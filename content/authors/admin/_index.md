@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student (in Chemistry Department)
+role: Master Student(Department of Chemistry)
 
 # Organizations/Affiliations to show in About widget
 organizations:
