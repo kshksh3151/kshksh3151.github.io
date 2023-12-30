@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master Student(Department of Chemistry)
+role: Master Student (Department of Chemistry)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Computational Energy/Bio Soft Materials Lab(POSTECH)
+  - name: Computational Energy/Bio Soft Materials Lab
     url: https://cson.postech.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
