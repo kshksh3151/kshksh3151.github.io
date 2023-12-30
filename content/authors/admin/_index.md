@@ -37,11 +37,11 @@ interests:
 education:
   courses:
     - course: M.S. in Chemistry
-      institution: 2023.09 ~           
-      year: Pohang University of Science and Technology(POSTECH)
+      institution: 
+      year: 2023.09 ~           Pohang University of Science and Technology(POSTECH)
     - course: B.S. in Undergraduate Study
-      institution: 2019.02 ~ 2023.08   
-      year: Daegu Gyeongbook Institution of Science and Technology(DGIST)
+      institution: 
+      year: 2019.02 ~ 2023.08   Daegu Gyeongbook Institution of Science and Technology(DGIST)
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
