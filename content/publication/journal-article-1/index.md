@@ -1,5 +1,5 @@
 ---
-title: "Hydrophilic Crosslinkers as Universal Solution to Endow Water Affinity to a Polymer Photocatalyst for an Enhanced Hydrogen Evolution Rate (Submitted)"
+title: "Hydrophilic Crosslinkers as Universal Solution to Endow Water Affinity to a Polymer Photocatalyst for an Enhanced Hydrogen Evolution Rate"
 authors:
 - Sanghyuk An
 - Kyeong-Jun Jeong
@@ -28,7 +28,7 @@ publishDate: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "(Submitted)"
 publication_short: ""
 
 abstract: ''
