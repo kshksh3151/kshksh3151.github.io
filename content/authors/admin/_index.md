@@ -115,7 +115,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-About Me
-
 I am a master student at Computational Energy/Bio Soft Materials Lab(POSTECH). My research interests is developing new molecular dynamics simulation tools and polarization effect at electrified interfaces. I actively work to integrate my knowledge based on physics, chemistry, and mathmatics for developing or applying molecular simulations to solve various problems in chemistry.
 {style="text-align: justify;"}
