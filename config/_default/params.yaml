@@ -7,10 +7,6 @@
 
 appearance:
   theme_default: light
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
 
 # SEO
 
