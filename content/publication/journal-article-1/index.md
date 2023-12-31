@@ -16,7 +16,7 @@ authors:
 - Chang Yun Son*
 - Dae Sung Chung*
 author_notes:
-date: ""
+date: "2024-00-00T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
