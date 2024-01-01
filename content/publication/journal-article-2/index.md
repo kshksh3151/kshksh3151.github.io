@@ -28,7 +28,7 @@ publishDate: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted"
+publication: "Submitted"
 publication_short: ""
 
 abstract: ''
