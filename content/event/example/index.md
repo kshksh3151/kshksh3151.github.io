@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: 2024 Winter Molecular Simulation Seminar
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: In-house Seminar in Computational Energy Bio/Soft Materials Lab
+event_url: https://smlee99.github.io/2024winterseminar.github.io/
 
-location: Hugo Blox Builder HQ
+location: Room 302, the 2nd experimental building at POSTECH
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: '77, Cheongam-ro'
+  city: 'Nam-Gu, Pohang-si'
+  region: 'Gyeongsangbook-do'
+  postcode: '37673'
+  country: 'South Korea'
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'It is easy to run a simulation, but much more difficult to understand the underlying principle. We will ask questions about simulation-related methodologies. For instance, How the Newtonian equation of motion is actually integrated? How can we set the temperature and pressure of given system to be constant? What differences and similarities do the force field models have? What can be computed using MD simulation and how can we bring physical insights? Why do we sometimes use MC and sometimes MD? Can we model polarizability and reactivity in classical molecular simulation? Can we trust the simulation result? We strive to answer these questions and try to understand how molecular simulations actually work.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-01-12T15:00:00Z'
+date_end: '2024-02-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 authors: []
 tags: []
@@ -35,10 +35,10 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon: ''
+    icon_pack: ''
+    name: ''
+    url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
