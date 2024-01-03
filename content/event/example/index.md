@@ -18,7 +18,7 @@ abstract: 'It is easy to run a simulation, but much more difficult to understand
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-01-12T15:00:00Z'
-date_end: '2024-02-01T15:00:00Z'
+date_end: '2024-01-12T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
