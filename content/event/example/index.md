@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-03T00:00:00Z'
 
-authors: ['Seonghyeon Kang(Facilitator)', 'Seungbin Hong(Facilitator)', 'Sangmin Lee(Facilitator)', 'Junho Lim(Guest)', 'Kyeong-Jun Jeong(Guest)']
+authors: ['Seonghyeon Kang(Facilitator)*', 'Seungbin Hong(Facilitator)', 'Sangmin Lee(Facilitator)', 'Junho Lim(Guest)', 'Kyeong-Jun Jeong(Guest)']
 tags: []
 
 # Is this a featured talk? (true/false)
