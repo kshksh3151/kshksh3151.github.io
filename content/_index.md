@@ -85,14 +85,11 @@ sections:
       address:
         street: 77, Cheongam-ro
         city: Nam-gu, Pohang-si
-        region: Gyeongsangbuk-do
-        postcode: '94305'
+        region: Gyeongsangbuk-do, South Korea
+        postcode: '(37673)'
         country: South Korea
         country_code: KR
       directions: Room 302, Research Building 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '36.02095'
