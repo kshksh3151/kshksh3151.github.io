@@ -74,7 +74,7 @@ skills:
         icon_pack: fas
       - name: Music
         description: ''
-        percent: 60
+        percent: 80
         icon: microphone
         icon_pack: fas
       - name: Youtube
