@@ -28,7 +28,7 @@ publishDate: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
+publication: "In Revision"
 publication_short: ""
 
 abstract: ''
