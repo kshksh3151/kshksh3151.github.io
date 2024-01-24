@@ -25,7 +25,7 @@ organizations:
     url: https://cson.postech.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is to develop molecular simulation tools that go beyond the limits of classical molecular dynamics
+bio: My research interest is developing new molecular simulation tools that go beyond the limits of classical molecular dynamics
 
 # Interests to show in About widget
 interests:
