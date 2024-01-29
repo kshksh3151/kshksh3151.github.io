@@ -36,7 +36,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: '2024_winter_seminar.pdf'
+url_slides: ''
 url_video: 'https://www.youtube.com/'
 
 # Markdown Slides (optional).
@@ -52,5 +52,5 @@ slides: '2024_winter_seminar.pdf'
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - []
+  - example
 ---
