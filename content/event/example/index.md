@@ -18,7 +18,7 @@ abstract: 'It is easy to run a simulation, but much more difficult to understand
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-01-12T13:00:00Z'
-date_end: '2024-02-23T17:00:00Z'
+date_end: '2024-03-08T17:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -36,7 +36,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: '2024_winter_seminar.pdf'
 url_video: 'https://www.youtube.com/'
 
 # Markdown Slides (optional).
