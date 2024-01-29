@@ -36,7 +36,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'slides/2024_winter_seminar.pdf'
 url_video: 'https://www.youtube.com/'
 
 # Markdown Slides (optional).
@@ -44,7 +44,7 @@ url_video: 'https://www.youtube.com/'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: '2024_winter_seminar.pdf'
+slides: ''
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
