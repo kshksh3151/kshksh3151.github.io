@@ -81,7 +81,7 @@ sections:
     id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Grant & Awards'
+      title: 'Grants & Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -98,7 +98,7 @@ sections:
           icon: ''
           organization: Community Chest of Korea, Daegu
           organization_url: https://daegu.chest.or.kr/base.do
-          title: Sosun Sharing Fund for Graduate Student in Science and Technology
+          title: (Grant)Sosun Sharing Fund for Graduate Student in Science and Technology
           url: ''
     design:
       columns: '2'
