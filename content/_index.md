@@ -80,7 +80,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Sosun Sharing Fund Graduate Student in Science and Technology'
+      title: 'Grant & Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Sep 2023
