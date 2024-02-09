@@ -83,7 +83,7 @@ sections:
       title: 'Grant & Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Oct 25, 2023
+      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
