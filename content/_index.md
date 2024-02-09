@@ -92,7 +92,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-10-25'
+          date_start: ''
           description: ''
           icon: ''
           organization: Community Chest of Korea, Daegu
