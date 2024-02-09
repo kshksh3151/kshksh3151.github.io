@@ -98,7 +98,7 @@ sections:
           icon: ''
           organization: Community Chest of Korea, Daegu
           organization_url: https://daegu.chest.or.kr/base.do
-          title: (Grant)Sosun Sharing Fund for Graduate Student in Science and Technology
+          title: (Grant)Sosun Sharing Fund for Graduate Students in Science and Technology
           url: ''
     design:
       columns: '2'
