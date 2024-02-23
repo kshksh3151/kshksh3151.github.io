@@ -36,7 +36,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: 'slides/2024_winter_seminar.pdf'
+url_slides: 'slides/2024_winter_seminar_merged.pdf'
 url_video: 'https://www.youtube.com/'
 
 # Markdown Slides (optional).
