@@ -1,8 +1,8 @@
 ---
 title: "Hydrophilic Photocrosslinkers as a Universal Solution to Endow Water Affinity to a Polymer Photocatalyst for an Enhanced Hydrogen Evolution Rate"
 authors:
-- 'Sanghyeok An†'
-- 'Kyeong-Jun Jeong†'
+- 'Sanghyeok An‡'
+- 'Kyeong-Jun Jeong‡'
 - 'Zhaid Hassan Syed'
 - 'Gayoung Ham'
 - admin
