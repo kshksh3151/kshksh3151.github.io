@@ -1,5 +1,5 @@
 ---
-title: 2024 Spring Molecular Simulation Seminar
+title: 2024 Winter Molecular Simulation Seminar
 
 event: In-house Seminar in Computational Energy Bio/Soft Materials Lab
 event_url: https://smlee99.github.io/2024winterseminar.github.io/
@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-01-03T00:00:00Z'
 
-authors: [admin, 'Seungbin Hong', 'Sangmin Lee', 'Junho Lim(Guest)', 'Kyeong-Jun Jeong(Guest)']
-tags: ['a','a','a','a','a']
+authors: ['Sangmin Lee', admin, 'Seungbin Hong', 'Junho Lim(Guest)', 'Kyeong-Jun Jeong(Guest)']
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://smlee99.github.io/2024winterseminar.github.io/'
 url_slides: 'slides/2024_winter_seminar_merged.pdf'
 url_video: ''
 
