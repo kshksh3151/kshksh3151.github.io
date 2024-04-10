@@ -109,5 +109,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a master student at Computational Energy/Bio Soft Materials Lab(POSTECH, South Korea). My research interests is developing new molecular dynamics simulation tools and polarization effect at electrified interfaces. I'm actively working on developing or applying molecular simulations to solve various problems in chemistry by integrating related theories based on physics and chemistry.
+I am a master student at Computational Energy/Bio Soft Materials Lab(PI : Chang Yun Son, POSTECH, South Korea). My research interests is developing new molecular dynamics simulation tools and polarization effect at electrified interfaces. I'm actively working on developing or applying molecular simulations to solve various problems in chemistry by integrating related theories based on physics and chemistry.
 {style="text-align: justify;"}
