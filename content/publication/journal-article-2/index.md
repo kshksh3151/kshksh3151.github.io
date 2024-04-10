@@ -17,7 +17,7 @@ authors:
 - Dae Sung Chung*
 author_notes:
 - ""
-- "Group Member"
+- ""
 - ""
 - ""
 - ""
