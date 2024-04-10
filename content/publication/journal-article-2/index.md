@@ -14,7 +14,7 @@ authors:
 - 'Han-Hee Cho'
 - 'Hyojung Cha*'
 - 'Chang Yun Son*'
-- 'D'ae Sung Chung*'
+- 'Dae Sung Chung*'
 author_notes:
 - ""
 - ""
