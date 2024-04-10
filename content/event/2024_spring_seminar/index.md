@@ -13,7 +13,7 @@ address:
   country: 'South Korea'
 
 summary: In house seminar about the physical foundation for simulations & basic instrumental analysis
-abstract: ''
+abstract: 'To be written'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
