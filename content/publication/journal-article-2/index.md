@@ -1,21 +1,23 @@
 ---
-title: "--------------------"
+title: "Hydrophilic Photocrosslinkers as a Universal Solution to Endow Water Affinity to a Polymer Photocatalyst for an Enhanced Hydrogen Evolution Rate"
 authors:
-- S--
-- K--
-- Z--
-- G--
+- Sanghyeok An
+- Kyeong-Jun Jeong
+- Zhaid Hassan Syed
+- Gayoung Ham
 - admin
-- J--
-- H--
-- S--
-- J--
-- H--
-- H--
-- H--*
-- C--*
-- D--*
+- Juhyeok Lee
+- Hyeonjong Ma
+- Sang Young Jeong
+- Jiwoong Yang
+- Han Young Woo
+- Han-Hee Cho
+- Hyojung Cha*
+- Chang Yun Son*
+- Dae Sung Chung*
 author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2024-01-01T00:00:00Z"
 doi: ""
 
@@ -28,7 +30,7 @@ publishDate: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Revision"
+publication: "Submitted"
 publication_short: ""
 
 abstract: ''
