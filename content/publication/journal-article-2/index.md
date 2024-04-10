@@ -3,7 +3,7 @@ title: "Hydrophilic Photocrosslinkers as a Universal Solution to Endow Water Aff
 authors:
 - 'Sanghyeok An‡'
 - 'Kyeong-Jun Jeong‡'
-- 'Zhaid Hassan Syed'
+- 'Zhaid Hassan Syed‡'
 - 'Gayoung Ham'
 - admin
 - 'Juhyeok Lee'
