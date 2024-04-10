@@ -35,7 +35,7 @@ image:
   focal_point: Right
 
 url_code: ''
-url_details: 'https://smlee99.github.io/2024winterseminar.github.io/'
+url_pdf: 'https://smlee99.github.io/2024winterseminar.github.io/'
 url_slides: 'slides/2024_winter_seminar_merged.pdf'
 url_video: ''
 
