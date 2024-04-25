@@ -2,7 +2,7 @@
 title: 2024 Spring Physics & Instrumental Analysis Seminar
 
 event: In-house Seminar in Computational Energy Bio/Soft Materials Lab
-event_url: https://sites.google.com/view/2024sonlab-springseminar/home
+event_url: 'https://sites.google.com/view/2024sonlab-springseminar/home'
 
 location: Room 302, the 2nd experimental building at POSTECH
 address:
