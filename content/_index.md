@@ -103,11 +103,20 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2024-06-25'
-          description: 'aaa'
+          description: 'Affiliation : Phyical Chemistry Division in Korean Chemical Society'
           icon: ''
-          organization: KCS Physical Chemistry Division
-          organization_url: https://new.kcsnet.or.kr/branch_physical
+          organization: Korea-Japan Symposium on Molecular Science & 143rd Summer Symposium of KCS-Phyical Chemistry Division
+          organization_url: https://new.kcsnet.or.kr/branch_physical_notice/46843
           title: (Award)Best Poster Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-07-05'
+          description: 'Affiliation : Korea Nanotechnology Research Society(KoNTRS)'
+          icon: ''
+          organization: Nano Korea 2024
+          organization_url: https://new.kcsnet.or.kr/branch_physical
+          title: (Award)Best Poster Award, Silver Prize
           url: ''
     design:
       columns: '2'
