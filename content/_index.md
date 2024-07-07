@@ -115,7 +115,7 @@ sections:
           description: 'Affiliation : Korea Nanotechnology Research Society(KoNTRS)'
           icon: ''
           organization: Nano Korea 2024
-          organization_url: https://new.kcsnet.or.kr/branch_physical
+          organization_url: http://www.nanokorea-sympo.or.kr/
           title: (Award)Best Poster Award, Silver Prize
           url: ''
     design:
