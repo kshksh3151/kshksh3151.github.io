@@ -100,6 +100,15 @@ sections:
           organization_url: https://daegu.chest.or.kr/base.do
           title: (Scholarship)Sosun Sharing Fund for Graduate Students in Science and Technology
           url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-06-25'
+          description: 'aaa'
+          icon: ''
+          organization: KCS Physical Chemistry Division
+          organization_url: https://new.kcsnet.or.kr/branch_physical
+          title: (Award)Best Poster Award
+          url: ''
     design:
       columns: '2'
   - block: contact
