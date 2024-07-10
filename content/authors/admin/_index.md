@@ -30,15 +30,18 @@ bio: My research interest is developing new molecular simulation tools that go b
 # Interests to show in About widget
 interests:
   - Developing New Molecular Dynamics Simulation Tools
-  - Chemistry at Electrified Interfaces
+  - Electron, Proton Transfer Process
   - Polymer Electrolyte, Ionic Liquid, Conducting Polymer
 
 # Education to show in About widget
 education:
   courses:
+    - course: Integrated M.S./Ph.D. in Chemistry
+      institution: Seoul National University (SNU)
+      year: 2024.09 ~
     - course: M.S. in Chemistry
       institution: Pohang University of Science and Technology (POSTECH)
-      year: 2023.09 ~
+      year: 2023.09 ~ 2024.08
     - course: B.S. in Undergraduate Study
       institution: Daegu Gyeongbook Institution of Science and Technology (DGIST), Magna Cum Laude
       year: 2019.02 ~ 2023.08

@@ -44,14 +44,6 @@ sections:
       title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: collection
     id: publication
     content:
@@ -103,7 +95,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2024-06-25'
-          description: 'Title : Development of Hybrid Monte Carlo-Molecular Dynamics Simulations for Doped Conducting Polymer'
+          description: 'Title : Effects of Energetic Disorder in Doped Conducting Polymer: Molecular Dynamics and Monte Carlo Study'
           icon: ''
           organization: Korea-Japan Symposium on Molecular Science & 143rd Summer Symposium of KCS-Phyical Chemistry Division
           organization_url: https://new.kcsnet.or.kr/branch_physical_notice/46843
@@ -112,7 +104,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2024-07-05'
-          description: 'Title : Development of Hybrid Monte Carlo-Molecular Dynamics Simulations for Doped Conducting Polymer'
+          description: 'Title : Effects of Energetic Disorder in Doped Conducting Polymer: Molecular Dynamics and Monte Carlo Study'
           icon: ''
           organization: Nano Korea 2024
           organization_url: http://www.nanokorea-sympo.or.kr/
