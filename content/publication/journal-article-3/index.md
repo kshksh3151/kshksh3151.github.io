@@ -1,9 +1,8 @@
 ---
 title: "Effects of Energetic Disorder on Free Charge Generation in Doped Conjugated Polymers"
 authors:
-Seong Hyeon Kim, Seonghyeon Kang, Minyoung Jeong, Seungwon Jeong, Chang Yun Son, and Kilwon Cho*
-- Seong Hyeon Kim
-- admin
+- Seong Hyeon Kim†
+- admin†
 - Minyoung Jeong
 - Seungwon Jeong
 - Chang Yun Son*
@@ -27,7 +26,7 @@ publishDate: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Submitted"
 publication_short: ""
 
 abstract: ''
