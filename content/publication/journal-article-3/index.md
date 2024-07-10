@@ -10,7 +10,7 @@ authors:
 author_notes:
 - Equal Contribution
 - Equal Contribution
-- 
+- Equal Contribution
 - 
 - 
 -  

@@ -3,7 +3,7 @@ title: "Strained Pt(221) Facet in a PtCo@Pt-Rich Catalyst Boosts Oxygen Reductio
 authors:
 - Emmanuel Batsa Tetteh
 - Caleb Gyan-Barimah
-- Ha-Young Lee†
+- Ha-Young Lee
 - Tong-Hyun Kang
 - admin
 - Stefan Ringe*
@@ -11,7 +11,7 @@ authors:
 author_notes:
 - "Equal Contribution"
 - "Equal Contribution"
-- ""
+- "Equal Contribution"
 - ""
 - ""
 - ""
