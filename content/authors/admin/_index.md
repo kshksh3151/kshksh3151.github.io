@@ -29,9 +29,9 @@ bio: My research interest is developing new molecular simulation tools that go b
 
 # Interests to show in About widget
 interests:
-  - Developing New Molecular Dynamics Simulation Tools
-  - Electron, Proton Transfer Process
-  - Polymer Electrolyte, Ionic Liquid, Conducting Polymer
+  - Developing New Molecular Simulation Tools
+  - Electron Transfer Process in Soft Matter System
+  - Conducting Polymer, Polymer Nanocomposite, Polymer Based Photocatalyst, Organic Mixed Ionic Electronic Conductor
 
 # Education to show in About widget
 education:
