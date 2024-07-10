@@ -16,6 +16,8 @@ authors:
 - Chang Yun Son*
 - Dae Sung Chung*
 author_notes:
+- Equal Contribution
+- Equal Contribution
 - 
 - 
 - 
@@ -27,8 +29,6 @@ author_notes:
 - 
 - 
 - 
-- 
-- "Advisor(Current)"
 - 
 date: "2024-05-17T00:00:00Z"
 doi: "10.1002/advs.202309786"

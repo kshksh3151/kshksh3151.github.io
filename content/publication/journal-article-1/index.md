@@ -1,20 +1,20 @@
 ---
 title: "Strained Pt(221) Facet in a PtCo@Pt-Rich Catalyst Boosts Oxygen Reduction and Hydrogen Evolution Activity"
 authors:
-- Emmanuel Batsa Tetteh†
-- Caleb Gyan-Barimah†
+- Emmanuel Batsa Tetteh
+- Caleb Gyan-Barimah
 - Ha-Young Lee†
 - Tong-Hyun Kang
 - admin
 - Stefan Ringe*
 - Jong-Sung Yu*
 author_notes:
+- "Equal Contribution"
+- "Equal Contribution"
 - ""
 - ""
 - ""
 - ""
-- ""
-- "Advisor(B.S.)"
 - ""
 date: "2022-05-24T00:00:00Z"
 doi: "10.1021/acsami.2c00398"
