@@ -118,7 +118,7 @@ sections:
       title: Contact
       email: kshksh3151@snu.ac.kr
       address:
-        street: Gwanak-ro 1,
+        street: Gwanak-ro 1
         city: Gwanak-gu
         region: Seoul, Republic of Korea
         postcode: '(08826)'
