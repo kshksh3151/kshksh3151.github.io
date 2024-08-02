@@ -127,8 +127,8 @@ sections:
       directions: Room 227, Department of Chemistry
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.45806'
-        longitude: '126.9500'  
+        latitude: '37.459186'
+        longitude: '126.948165'  
       autolink: true
       # Email form provider
     design:
