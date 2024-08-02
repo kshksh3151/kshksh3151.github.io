@@ -116,15 +116,15 @@ sections:
     id: contact
     content:
       title: Contact
-      email: kshksh3151@postech.ac.kr
+      email: kshksh3151@snu.ac.kr
       address:
-        street: 77, Cheongam-ro
-        city: Nam-gu, Pohang-si
-        region: Gyeongsangbuk-do, South Korea
-        postcode: '(37673)'
+        street: 1, Gwanak-ro
+        city: Gwanak-gu
+        region: Seoul, Republic of Korea
+        postcode: '(08826)'
         country: South Korea
         country_code: KR
-      directions: Room 302, Research Building 2
+      directions: Room 227, Department of Chemistry
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '36.02095'
