@@ -99,9 +99,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/kshksh3151
-  - icon: linkedin
-    icon_pack: fab
-    link: hhttps://www.linkedin.com/in/seonghyeon-kang-243425254/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
