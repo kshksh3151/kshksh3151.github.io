@@ -108,7 +108,7 @@ sections:
           icon: ''
           organization: Nano Korea 2024
           organization_url: http://www.nanokorea-sympo.or.kr/
-          title: (Award) Best Poster Award, Silver Prize
+          title: (Award) Best Poster Award, Silver Prize(Top 15 Posters in 497 Candidates)
           url: ''
     design:
       columns: '2'
