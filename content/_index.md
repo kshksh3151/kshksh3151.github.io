@@ -124,7 +124,7 @@ sections:
         postcode: '(08826)'
         country: South Korea
         country_code: KR
-      directions: Room 227, Department of Chemistry
+      directions: Room 131, Building 503, Department of Chemistry
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '37.459186'
