@@ -55,6 +55,8 @@ jobs:
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./public
+          name: github-pages
+
 
   # Deploy website to GitHub Pages hosting
   deploy:
