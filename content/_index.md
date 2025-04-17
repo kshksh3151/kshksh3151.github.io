@@ -108,16 +108,7 @@ sections:
           icon: ''
           organization: Nano Korea 2024
           organization_url: http://www.nanokorea-sympo.or.kr/
-          title: '(Award) Best Poster Award, Silver Prize(Top 9 Posters in 497 Candidates)'
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2025-03-14'
-          description: 'Title : Development of Hybrid MC/MD Simulations for Modelling Ion/Electron Transport in Organic Materials'
-          icon: ''
-          organization: SNU Computational Chemistry Department
-          organization_url: https://chem.snu.ac.kr/research-faculty/faculty/fulltime?mode=list&residx=13
-          title: '(Award) Best Poster Award'
+          title: '(Award) Best Poster Award, Silver Prize(Top 15 Posters in 497 Candidates)'
           url: ''
     design:
       columns: '2'
