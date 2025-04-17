@@ -90,7 +90,7 @@ sections:
           icon: ''
           organization: Community Chest of Korea, Daegu
           organization_url: https://daegu.chest.or.kr/base.do
-          title: '[Scholarship] Sosun Sharing Fund for Graduate Students in Science and Technology'
+          title: 'CScholarship) Sosun Sharing Fund for Graduate Students in Science and Technology'
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -99,7 +99,7 @@ sections:
           icon: ''
           organization: Korea-Japan Symposium on Molecular Science & 143rd Summer Symposium of KCS-Phyical Chemistry Division
           organization_url: https://new.kcsnet.or.kr/branch_physical_notice/46843
-          title: '[Award] Best Poster Award'
+          title: '(Award) Best Poster Award'
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -108,7 +108,7 @@ sections:
           icon: ''
           organization: Nano Korea 2024
           organization_url: http://www.nanokorea-sympo.or.kr/
-          title: '[Award] Best Poster Award, Silver Prize(Top 9 Posters in 497 Candidates)'
+          title: '(Award) Best Poster Award, Silver Prize(Top 9 Posters in 497 Candidates)'
           url: ''
         - certificate_url: ''
           date_end: ''
@@ -117,7 +117,7 @@ sections:
           icon: ''
           organization: SNU Computational Chemistry Department
           organization_url: https://chem.snu.ac.kr/research-faculty/faculty/fulltime?mode=list&residx=13
-          title: '[Award] Best Poster Award'
+          title: '(Award) Best Poster Award'
           url: ''
     design:
       columns: '2'
