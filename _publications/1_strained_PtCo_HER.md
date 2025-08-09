@@ -1,5 +1,5 @@
 ---
-title: "Strained Pt (221) Facet in a PtCo@ Pt-Rich Catalyst Boosts Oxygen Reduction and Hydrogen Evolution Activity"
+title: "[1] Strained Pt (221) Facet in a PtCo@ Pt-Rich Catalyst Boosts Oxygen Reduction and Hydrogen Evolution Activity"
 collection: publications
 category: manuscripts
 permalink: /publication/1_strained_PtCo_HER
