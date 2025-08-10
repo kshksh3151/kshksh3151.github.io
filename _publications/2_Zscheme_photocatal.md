@@ -1,5 +1,5 @@
 ---
-title: "Hydrophilic Photocrosslinkers as a Universal Solution to Endow Water Affinity to a Polymer Photocatalyst for an Enhanced Hydrogen Evolution Rate"
+title: "[2] Hydrophilic Photocrosslinkers as a Universal Solution to Endow Water Affinity to a Polymer Photocatalyst for an Enhanced Hydrogen Evolution Rate"
 collection: publications
 category: manuscripts_ms
 permalink: /publication/2_Zscheme_photocatal
@@ -8,7 +8,7 @@ date: 2024-05-17
 venue: '<b>Advanced Science</b>'
 slidesurl: 'http://kshksh3151.github.io/files/slides2.pdf'
 paperurl: 'http://kshksh3151.github.io/files/paper2.pdf'
-citation: 'S. An, K.-J. Jeong, S. Z. Hassan, G. Ham, <b>S. Kang</b>, J. Lee, H. Ma, J. Kwon, S. Y. Jeong, J. Yang, H. Y. Woo, H.-H. Cho, H. Cha, C. Y. Son, & D. S. Chung. Hydrophilic photocrosslinkers as a universal solution to endow water affinity to a polymer photocatalyst for an enhanced hydrogen evolution rate. <i>Advanced Science</i>, <b>2024</b>, <i>11</i>(28), 2309786.'
+citation: '<i>S. An, K.-J. Jeong, S. Z. Hassan, G. Ham, <b>S. Kang</b>, J. Lee, H. Ma, J. Kwon, S. Y. Jeong, J. Yang, H. Y. Woo, H.-H. Cho, H. Cha, C. Y. Son, & D. S. Chung</i>. Hydrophilic photocrosslinkers as a universal solution to endow water affinity to a polymer photocatalyst for an enhanced hydrogen evolution rate. <i>Advanced Science</i>, <b>2024</b>, <i>11</i>(28), 2309786.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
