@@ -6,7 +6,7 @@ permalink: /publication/1_strained_PtCo_HER
 excerpt: ''
 date: 2022-05-25
 venue: '<b>ACS Applied Materials and Interfaces</b>'
-slidesurl: ''
+slidesurl: 'http://kshksh3151.github.io/files/paper1.pdf'
 paperurl: 'http://kshksh3151.github.io/files/paper1.pdf'
 bibtexurl: 'http://kshksh3151.github.io/files/bibtex1.bib'
 citation: 'E. B. Tetteh, C. Gyan-Barimah, H. Y. Lee, T. H. Kang, <b>S. Kang</b>, S. Ringe, & J. S. Yu. Strained Pt(221) facet in a PtCo@Pt-Rich catalyst boosts oxygen reduction and hydrogen evolution activity. <i>ACS Applied Materials & Interfaces</i>, <b>2022</b>, <i>14</i>(22), 25246-25256.'
