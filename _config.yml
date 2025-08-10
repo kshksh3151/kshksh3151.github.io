@@ -82,9 +82,9 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  manuscripts_ms:
     title: 'Publications while at POSTECH(Master)'  
-  manuscripts:
+  manuscripts_bs:
     title: 'Publications while at DGIST(Undergraduate)'    
 
 # Site Settings
