@@ -6,7 +6,7 @@ permalink: /publication/2_Zscheme_photocatal
 excerpt: ''
 date: 2024-05-17
 venue: '<b>Advanced Science</b>'
-slidesurl: 'http://kshksh3151.github.io/files/slides2.pdf'
+slidesurl: 'http://kshksh3151.github.io/files/paper2.pdf'
 paperurl: 'http://kshksh3151.github.io/files/paper2.pdf'
 citation: '<i>S. An, K.-J. Jeong, S. Z. Hassan, G. Ham, <b>S. Kang</b>, J. Lee, H. Ma, J. Kwon, S. Y. Jeong, J. Yang, H. Y. Woo, H.-H. Cho, H. Cha, C. Y. Son, & D. S. Chung</i>. Hydrophilic photocrosslinkers as a universal solution to endow water affinity to a polymer photocatalyst for an enhanced hydrogen evolution rate. <i>Advanced Science</i>, <b>2024</b>, <i>11</i>(28), 2309786.'
 ---

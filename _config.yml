@@ -82,12 +82,12 @@ author:
 publication_category:
   books:
     title: 'Books'
+  manuscripts_phd:
+    title: 'Publications while at SNU(Integrated M.S/Ph.D)'
   manuscripts_ms:
-    title: 'Publications while at SNU(Integrated M.S./Ph.D)'
-  manuscripts_ms:
-    title: 'Publications while at POSTECH(M.S.)'  
+    title: 'Publications while at POSTECH(Master)'  
   manuscripts_bs:
-    title: 'Publications while at DGIST(B.S.)'    
+    title: 'Publications while at DGIST(Undergraduate)'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
