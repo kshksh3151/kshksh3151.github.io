@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts_phd
 permalink: /publication/3_energetic_disorder
 excerpt: ''
-date: ASAP Article
+date: 2025-08-07
 venue: '<b>ACS Nano</b>'
 slidesurl: 'http://kshksh3151.github.io/files/paper3.pdf'
 paperurl: 'http://kshksh3151.github.io/files/paper3.pdf'
