@@ -269,10 +269,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _awards_and_scholarships
   - scope:
       path: ""
-      type: portfolio
+      type: awards_and_scholarships
     values:
       layout: single
       author_profile: true
