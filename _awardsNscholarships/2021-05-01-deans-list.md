@@ -1,5 +1,5 @@
 ---
-title: "2020 Dean’s List, DGIST"
+title: "[DGIST] 2020 Dean’s List"
 excerpt: "Selected for the 2020 Dean’s List, DGIST (May. 2021)"
 collection: portfolio
 ---

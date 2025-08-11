@@ -1,5 +1,5 @@
 ---
-title: "Best Poster Award (Silver Prize), Nano Korea 2024"
+title: "[POSTECH] Best Poster Award (Silver Prize), Nano Korea 2024"
 excerpt: "Received Best Poster Award (Silver Prize, Top 9 of 497 candidates), Nano Korea 2024 (Jul. 2024)"
 collection: portfolio
 ---
