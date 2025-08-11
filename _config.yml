@@ -269,10 +269,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _awards_and_scholarships
+  # _awardsNscholarships
   - scope:
       path: ""
-      type: awards_and_scholarships
+      type: awardsNscholarships
     values:
       layout: single
       author_profile: true
