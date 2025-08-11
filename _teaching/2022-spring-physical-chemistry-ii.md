@@ -1,5 +1,5 @@
 ---
-title: "Tutoring Physical Chemistry II"
+title: "[Tutoring] Physical Chemistry II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-physical-chemistry-ii

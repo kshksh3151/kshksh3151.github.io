@@ -1,5 +1,5 @@
 ---
-title: "Tutoring Organic Chemistry I"
+title: "[Tutoring] Organic Chemistry I"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-organic-chemistry-i

@@ -1,5 +1,5 @@
 ---
-title: "Tutoring Multivariable Calculus"
+title: "[Tutoring] Multivariable Calculus"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-fall-multivariable-calculus
