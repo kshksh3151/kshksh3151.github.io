@@ -42,8 +42,8 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.date and post.collection != "awardsNscholarships" %}
-          <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <strong><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></strong></p>
+        {% elsif post.date %}
+          <p class="page__date">{% if post.collection != "awardsNscholarships" %}<i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {% endif %}<strong><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></strong></p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
