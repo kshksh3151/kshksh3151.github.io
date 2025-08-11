@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,32 +17,32 @@ Education
 
 Work experience
 ======
-* 2023.07-2022.07 : Research Intern
+* 2023.07 - 2022.07 : Research Intern
   * Dept. of Brain Science, DGIST
   * Main Work : Molecular Dynamics Simulation of Protein.  
   * Supervisor : Prof. Iksoo Chang
 
-* 2023.01-2022.02 : Research Intern
+* 2023.01 - 2022.02 : Research Intern
   * Dept. of Chemistry, POSTECH
   * Main Work : Molecular Dynamics Simulation of Polymer System.  
   * Supervisor : Prof. Chang Yun Son
 
-* 2022.07-2022.08 : Research Intern
+* 2022.07 - 2022.08 : Research Intern
   * Dept. of Chemical Engineering, POSTECH
   * Main Work : Plane Wave DFT for heterogeneous catalysts 
   * Supervisor : Prof. Jeong Woo Han
 
-* 2021.03-2021.12 : Undergraduate Group Research Program
+* 2021.03 - 2021.12 : Undergraduate Group Research Program
   * Dept. of Energy Science and Engineering, DGIST
   * Main Work : Electrochemical CO<sub>2</sub> reduction experiments & Plane-wave DFT of metal/semiconductor catalysts.
   * Supervisor: Prof. Dae-Hyun Nam and Prof. Stefan Ringe
 
-* 2021.01-2021.02 : Research Intern
+* 2021.01 - 2021.02 : Research Intern
   * Dept. of Energy Science and Engineering, DGIST
   * Main Work : Electrochemical CO<sub>2</sub> reduction experiments & Plane-wave DFT of metal/semiconductor catalysts.
   * Supervisor : Prof. Dae-Hyun Nam and Prof. Stefan Ringe
 
-* 2020.07-2020.07 : Research Intern
+* 2020.07 - 2020.07 : Research Intern
   * Dept. of Physics & Chemistry, DGIST
   * Main Work : Synthesis of MOF, Post modification of MOF ligands. 
   * Supervisor : Prof. Jinhee Park
