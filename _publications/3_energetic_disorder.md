@@ -9,7 +9,7 @@ venue: '<b>ACS Nano</b>'
 slidesurl: 'http://kshksh3151.github.io/files/paper3.pdf'
 paperurl: 'http://kshksh3151.github.io/files/paper3.pdf'
 bibtexurl: 'http://kshksh3151.github.io/files/bibtex3.bib'
-citation: '<i>S. H. Kim, <b>S. Kang</b>, M. Jeong, J. Park, S. Jeong, H. Lee, C. Y. Son, & K. Cho</i>. Energetic disorder in doped P3HT: A crucial factor in overcoming Coulomb binding for free charge generation. <i>ACS Nano</i>, <b>2025</b>, <i>XX</i>(XX), XXX-XXX.'
+citation: 'S. H. Kim, <u>S. Kang</u>, M. Jeong, J. Park, S. Jeong, H. Lee, C. Y. Son, & K. Cho. Energetic disorder in doped P3HT: A crucial factor in overcoming Coulomb binding for free charge generation. <i>ACS Nano</i>, <b>2025</b>, <i>19</i>(32), 29265-29275.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
