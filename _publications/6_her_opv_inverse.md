@@ -1,5 +1,5 @@
 ---
-title: "[Submitted] Visible-Light-Driven All-Organic Photoprogrammable Transistors Enabled by Triplet-Sensitized Diarylethene Blends"
+title: "[Submitted] Dual Impact of Long-Lived Localized Carriers Induced by Restricted Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution"
 collection: publications
 category: manuscripts_phd
 permalink: /publication/her_opv_inverse
