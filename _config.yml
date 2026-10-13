@@ -81,11 +81,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts_phd:
-    title: 'Publications while at SNU(Integrated M.S/Ph.D)'
+    title: 'Publications while at SNU (Integrated M.S./Ph.D., PI: Prof. Chang Yun Son)'
   manuscripts_ms:
-    title: 'Publications while at POSTECH(Master)'  
+    title: 'Publications while at POSTECH (M.S., PI: Prof. Chang Yun Son)'  
   manuscripts_bs:
-    title: 'Publications while at DGIST(Undergraduate)'    
+    title: 'Publications while at DGIST (Undergraduate)'    
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
