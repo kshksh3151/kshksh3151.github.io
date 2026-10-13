@@ -54,7 +54,7 @@
 
 /* reduce space between archive subtitle and the first list item */
 .archive__subtitle + .list__item .archive__item-title {
-  margin-top: 0.15em !important;
+  margin-top: 0 !important;
 }
 
 .archive__item-excerpt {
