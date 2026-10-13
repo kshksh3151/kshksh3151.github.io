@@ -18,11 +18,9 @@ Education
 Skills
 ======
 * Molecular Dynamics(MD) Simulation
-  * All-atom MD simulation(OpenMM)
-  * Coarse Grained MD simulation(HOOMD)
+  * All-atom MD simulation (OpenMM)
 * Density Functional Theory
-  * Gaussian
-  * Multiwfn
+  * Gaussian, ORCA, Multiwfn
 * Python
 
 Publications
