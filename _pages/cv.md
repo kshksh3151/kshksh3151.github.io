@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* Integrated M.S./Ph.D Department of Chemistry, Seoul Natioal University(SNU)                                   [2024.09 - ongoing]
-* M.S. Department of Chemistry, Pohang University of Science and Technology(POSTECH)            [2023.08 - 2024.08]
-* B.S. Undergraduate Studies, Daegu Gyeongbook Institution of Science and Technology(DGIST)     [2019.02 - 2023.08]
+* Integrated M.S./Ph.D Department of Chemistry, Seoul Natioal University (SNU)                                   [2024.09 - ongoing]
+* M.S. Department of Chemistry, Pohang University of Science and Technology (POSTECH)            [2023.08 - 2024.08]
+* B.S. Undergraduate Studies, Daegu Gyeongbook Institution of Science and Technology (DGIST)     [2019.02 - 2023.08]
 
 Skills
 ======
-* Molecular Dynamics(MD) Simulation
+* Molecular Dynamics (MD) Simulation
   * All-atom MD simulation (OpenMM)
-* Density Functional Theory
+* Density Functional Theory (DFT)
   * Gaussian, ORCA, Multiwfn
 * Python
 
