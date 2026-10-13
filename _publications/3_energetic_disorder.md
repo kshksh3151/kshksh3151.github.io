@@ -9,6 +9,7 @@ venue: '<b>ACS Nano</b>'
 slidesurl: 'http://kshksh3151.github.io/files/paper3.pdf'
 paperurl: 'http://kshksh3151.github.io/files/paper3.pdf'
 bibtexurl: 'http://kshksh3151.github.io/files/bibtex3.bib'
+link: 'https://pubs.acs.org/doi/10.1021/acsnano.5c04666'
 citation: 'S. H. Kim, <u>S. Kang</u>, M. Jeong, J. Park, S. Jeong, H. Lee, C. Y. Son, & K. Cho*. Energetic disorder in doped P3HT: A crucial factor in overcoming Coulomb binding for free charge generation. <i>ACS Nano</i>, <b>2025</b>, <i>19</i>(32), 29265-29275.'
 ---
 

@@ -9,6 +9,7 @@ venue: '<b>Advanced Science</b>'
 slidesurl: 'http://kshksh3151.github.io/files/paper2.pdf'
 paperurl: 'http://kshksh3151.github.io/files/paper2.pdf'
 bibtexurl: 'http://kshksh3151.github.io/files/bibtex2.bib'
+link: 'https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202309786'
 citation: 'S. An†, K.-J. Jeong†, S. Z. Hassan, G. Ham, <u>S. Kang</u>, J. Lee, H. Ma, J. Kwon, S. Y. Jeong, J. Yang, H. Y. Woo, H.-H. Cho, H. Cha*, C. Y. Son*, & D. S. Chung*. Hydrophilic photocrosslinkers as a universal solution to endow water affinity to a polymer photocatalyst for an enhanced hydrogen evolution rate. <i>Advanced Science</i>, <b>2024</b>, <i>11</i>(28), 2309786.'
 ---
 

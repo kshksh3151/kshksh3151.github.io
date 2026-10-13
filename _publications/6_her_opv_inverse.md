@@ -7,6 +7,7 @@ excerpt: ''
 date: 2026-01-01
 venue: 'Advanced Energy Materials'
 paperurl: ''
+link: 'https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.70952'
 citation: 'G. Ham†, S. An†, W. Jung†, H. M. Kwon, <u>S. Kang</u>, J. Lee, S. Kim, C. Park, D. Lee, Y. Y. Kim, S. Jo, C. Y. Son*, S. B. Jo*, D. S. Chung*, H. Cha*, Dual Impact of Long-Lived Localized Carriers Induced by Restricted Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution, <i>Advanced Energy Materials</i>, <b>2026</b>, e70952.'
 ---
 
