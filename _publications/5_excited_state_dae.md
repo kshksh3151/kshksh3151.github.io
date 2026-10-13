@@ -1,5 +1,5 @@
 ---
-title: "Visible-Light Photoprogrammable Transistors Enabled by an All-Organic Triplet-Sensitized Diarylethene Channel Layer"
+title: "[5] Visible-Light Photoprogrammable Transistors Enabled by an All-Organic Triplet-Sensitized Diarylethene Channel Layer"
 collection: publications
 category: manuscripts_phd
 permalink: /publication/excited_state_dae

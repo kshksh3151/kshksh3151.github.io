@@ -1,5 +1,5 @@
 ---
-title: "Dual Impact of Long-Lived Localized Carriers Induced by Restricted Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution"
+title: "[6] Dual Impact of Long-Lived Localized Carriers Induced by Restricted Hole Transfer in Organic Photovoltaics and Photocatalytic Hydrogen Evolution"
 collection: publications
 category: manuscripts_phd
 permalink: /publication/her_opv_inverse

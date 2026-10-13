@@ -1,5 +1,5 @@
 ---
-title: "Perfluoroarene-Based Interlayers Unlock High External Quantum Efficiency in Planar Heterojunction OPDs"
+title: "[4] Perfluoroarene-Based Interlayers Unlock High External Quantum Efficiency in Planar Heterojunction OPDs"
 collection: publications
 category: manuscripts_phd
 permalink: /publication/opd_pfb_dft
