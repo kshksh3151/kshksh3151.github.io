@@ -315,8 +315,8 @@
 .cv-page {
 
   h2 {
-    margin-top: 1.5em;
-    margin-bottom: 0.6em;
+    margin-top: 0.8em;
+    margin-bottom: 0.5em;
   }
 
   h2:first-child {
@@ -330,7 +330,7 @@
   }
 
   .cv-list > li {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.35em;
   }
 
   .cv-list > li:last-child {
@@ -338,15 +338,15 @@
   }
 
   .cv-list li > ul {
-    margin-top: 0.3em;
-    margin-bottom: 0.2em;
+    margin-top: 0.2em;
+    margin-bottom: 0.15em;
   }
 
   .cv-list li > ul > li {
-    margin-bottom: 0.25em;
+    margin-bottom: 0.2em;
   }
 
   .cv-publications > li {
-    margin-bottom: 1.0em;
+    margin-bottom: 0.5em;
   }
 }
