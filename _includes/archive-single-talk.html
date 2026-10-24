@@ -12,8 +12,9 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item talk__item"></div>
+<div class="{{ include.type | default: "list" }}__item talk__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -25,18 +26,36 @@
           alt="">
       </div>
     {% endif %}
+
     <h2 class="archive__item-title" itemprop="headline">
       {{ title }}
     </h2>
+
     {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+      <p class="page__meta">
+        <i class="fa fa-clock" aria-hidden="true"></i>
+        {% include read-time.html %}
+      </p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}
+
+    {% if post.date %}
+      <p class="page__meta">
+        <i class="fa fa-clock" aria-hidden="true"></i>
+        {{ post.date | date: '%B %d, %Y' }}
+      </p>
+    {% endif %}
+
+    {% if post.presentation %}
       <p class="archive__item-excerpt" itemprop="description">
         {{ post.presentation }}
       </p>
     {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.excerpt | markdownify }}
+      </p>
+    {% endif %}
+
   </article>
 </div>

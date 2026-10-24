@@ -251,20 +251,16 @@
    ========================================================================== */
 
 .talk__item {
-  margin: 0 !important;
-
   .archive__item-title {
-    margin-top: 0 !important;
-    margin-bottom: 0.2em !important;
+    margin-top: 0.6em;
+    margin-bottom: 0.15em;
   }
 
   .page__meta {
-    margin-top: 0 !important;
-    margin-bottom: 0.25em !important;
+    margin: 0 0 0.2em;
   }
 
   .archive__item-excerpt {
-    margin-top: 0 !important;
-    margin-bottom: 1.2em !important;
+    margin: 0 0 0.8em;
   }
 }
