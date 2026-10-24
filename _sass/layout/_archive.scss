@@ -251,8 +251,10 @@
    ========================================================================== */
 
 .talk__item {
+  padding-top: 1.2em;
+
   .archive__item-title {
-    margin-top: 1.2em;
+    margin-top: 0;
     margin-bottom: 0.15em;
   }
 
@@ -261,6 +263,6 @@
   }
 
   .archive__item-excerpt {
-    margin: 0 0 1.6em;
+    margin: 0;
   }
 }
