@@ -268,30 +268,25 @@
   }
 }
 
-/*
-   Publications page only
-   ========================================================================== */
-
 .publications-page {
 
   .publication__category-title {
-    margin-top: 1em;
-    margin-bottom: 0;
-  }
-
-  .publication-category {
-    margin-bottom: 1em;
+    margin-top: 1.4em;
+    margin-bottom: 0.8em;
   }
 
   .publication-entry {
-    margin-bottom: 1em;
+    margin-bottom: 1.25em;
   }
 
   .publication-entry .archive__item-title {
     margin-top: 0 !important;
+    margin-bottom: 0.35em;
   }
 
   .publication-entry .archive__item p {
+    margin-top: 0;
     margin-bottom: 0;
+    line-height: 1.55;
   }
 }
