@@ -266,3 +266,28 @@
     margin: 0;
   }
 }
+
+/*
+   Publications only
+   ========================================================================== */
+
+.archive__subtitle {
+  margin-top: 0.8em;
+}
+
+.archive__subtitle + .publication__item .archive__item-title {
+  margin-top: 0.4em !important;
+}
+
+.publication__item {
+  margin-bottom: 0.8em;
+
+  .archive__item-title {
+    margin-bottom: 0.15em;
+  }
+
+  p {
+    margin-top: 0.2em;
+    margin-bottom: 0.4em;
+  }
+}
