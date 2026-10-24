@@ -290,3 +290,42 @@
     line-height: 1.55;
   }
 }
+
+/*
+   CV page only
+   ========================================================================== */
+
+.cv-page {
+
+  .cv-section {
+    margin-bottom: 1.4em;
+  }
+
+  .cv-section h2 {
+    margin-top: 0;
+    margin-bottom: 0.55em;
+  }
+
+  .cv-list {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 1.6em;
+  }
+
+  .cv-list > li {
+    margin-bottom: 0.45em;
+  }
+
+  .cv-list > li:last-child {
+    margin-bottom: 0;
+  }
+
+  .cv-list li > ul {
+    margin-top: 0.3em;
+    margin-bottom: 0.2em;
+  }
+
+  .cv-list li > ul > li {
+    margin-bottom: 0.25em;
+  }
+}
