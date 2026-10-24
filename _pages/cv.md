@@ -9,43 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="cv-page">
-
-<div class="cv-section">
+<div class="cv-page" markdown="1">
 
 ## Education
 
-<ul class="cv-list">
-  <li>Integrated M.S./Ph.D. Department of Chemistry, Seoul National University (SNU) [2024.09 - ongoing]</li>
-  <li>M.S. Department of Chemistry, Pohang University of Science and Technology (POSTECH) [2023.08 - 2024.08]</li>
-  <li>B.S. Undergraduate Studies, Daegu Gyeongbook Institution of Science and Technology (DGIST) [2019.02 - 2023.08]</li>
-</ul>
-
-</div>
-
-<div class="cv-section">
+- Integrated M.S./Ph.D. Department of Chemistry, Seoul National University (SNU) [2024.09 - ongoing]
+- M.S. Department of Chemistry, Pohang University of Science and Technology (POSTECH) [2023.08 - 2024.08]
+- B.S. Undergraduate Studies, Daegu Gyeongbook Institution of Science and Technology (DGIST) [2019.02 - 2023.08]
 
 ## Skills
 
-<ul class="cv-list">
-  <li>
-    Molecular Dynamics (MD) Simulation
-    <ul>
-      <li>All-atom MD simulation (OpenMM)</li>
-    </ul>
-  </li>
-  <li>
-    Density Functional Theory (DFT)
-    <ul>
-      <li>Gaussian, ORCA, Multiwfn</li>
-    </ul>
-  </li>
-  <li>Python</li>
-</ul>
-
-</div>
-
-<div class="cv-section">
+- Molecular Dynamics (MD) Simulation
+  - All-atom MD simulation (OpenMM)
+- Density Functional Theory (DFT)
+  - Gaussian, ORCA, Multiwfn
+- Python
 
 ## Publications
 
@@ -55,10 +33,6 @@ redirect_from:
 {% endfor %}
 </ul>
 
-</div>
-
-<div class="cv-section">
-
 ## Awards & Scholarships
 
 <ul class="cv-list">
@@ -66,10 +40,6 @@ redirect_from:
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
-
-</div>
-
-<div class="cv-section">
 
 ## Talks
 
@@ -79,10 +49,6 @@ redirect_from:
 {% endfor %}
 </ul>
 
-</div>
-
-<div class="cv-section">
-
 ## Teaching
 
 <ul class="cv-list">
@@ -90,7 +56,5 @@ redirect_from:
   {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
-
-</div>
 
 </div>
