@@ -267,3 +267,29 @@
     margin: 0;
   }
 }
+
+/*
+   Publications page only
+   ========================================================================== */
+
+.publications-page {
+
+  .publication__category-title {
+    margin-top: 0.8em;
+    margin-bottom: 0.4em;
+  }
+
+  .archive__item-title {
+    margin-top: 0.4em !important;
+    margin-bottom: 0.2em;
+  }
+
+  .archive__item p {
+    margin-top: 0.2em;
+    margin-bottom: 0.5em;
+  }
+
+  .list__item + .list__item {
+    padding-top: 0.6em;
+  }
+}
