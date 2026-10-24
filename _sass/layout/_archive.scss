@@ -108,10 +108,6 @@
   }
 }
 
-/* Reduce spacing between talk entries */
-.talk__item {
-  margin-bottom: 0.4em;
-}
 
 /*
    Grid view
@@ -247,5 +243,30 @@
         width: span(7 of 12);
       }
     }
+  }
+}
+
+
+/*
+   Talks only
+   ========================================================================== */
+
+.talk__item {
+  clear: both;
+  margin-bottom: 1.2em;
+
+  .archive__item-title {
+    margin-top: 0 !important;
+    margin-bottom: 0.15em;
+  }
+
+  .page__meta {
+    margin-top: 0;
+    margin-bottom: 0.15em;
+  }
+
+  .archive__item-excerpt {
+    margin-top: 0;
+    margin-bottom: 0;
   }
 }
