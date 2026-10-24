@@ -272,7 +272,12 @@
    Publications page only
    ========================================================================== */
 
+   
 .publications-page {
+  /* Google Scholar text -> first category */
+  .publication-category:first-child {
+    margin-top: 1.2em;
+  }
 
   /* Category title */
   .publication__category-title {
@@ -315,8 +320,8 @@
 .cv-page {
 
   h2 {
-    margin-top: 0.8em;
-    margin-bottom: 0.5em;
+    margin-top: 0.6em;
+    margin-bottom: 0.4em;
   }
 
   h2:first-child {
@@ -330,7 +335,7 @@
   }
 
   .cv-list > li {
-    margin-bottom: 0.35em;
+    margin-bottom: 0.3em;
   }
 
   .cv-list > li:last-child {
@@ -338,15 +343,15 @@
   }
 
   .cv-list li > ul {
-    margin-top: 0.2em;
-    margin-bottom: 0.15em;
+    margin-top: 0.15em;
+    margin-bottom: 0.1em;
   }
 
   .cv-list li > ul > li {
-    margin-bottom: 0.2em;
+    margin-bottom: 0.15em;
   }
 
   .cv-publications > li {
-    margin-bottom: 0.5em;
+    margin-bottom: 0.35em;
   }
 }
