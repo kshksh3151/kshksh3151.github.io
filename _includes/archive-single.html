@@ -12,7 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item publication__item"></div>
+<div class="{{ include.type | default: "list" }}__item{% if post.collection == 'publications' %} publication__item{% endif %}"></div>
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     {% if include.type == "grid" and teaser %}
