@@ -8,4 +8,4 @@ date: 2025-03-01
 location: "Seoul, Republic of Korea"
 ---
 
-Lecture: Introduction to Python for Instrumental Data Analysis 
+<b>Lecture: Introduction to Python for Instrumental Data Analysis</b>
