@@ -4,4 +4,4 @@ excerpt: Received **Best Poster Award** at 2025 SNU Computational Chemistry Work
 collection: portfolio
 ---
 
-Received **Best Poster Award (Silver Prize)**, at 2025 SNU Computational Chemistry Workshop.
+Received **Best TA Award**, at 2026 SNU Computational Chemistry Workshop.
