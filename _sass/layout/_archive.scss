@@ -400,3 +400,24 @@
     margin-bottom: 0;
   }
 }
+
+/*
+   Teaching page only
+   ========================================================================== */
+
+.teaching-page {
+
+  .teaching-entry {
+    margin-bottom: 1.0em;
+  }
+
+  .teaching-entry .archive__item-title {
+    margin-top: 0 !important;
+    margin-bottom: 0.2em;
+  }
+
+  .teaching-entry .archive__item p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
