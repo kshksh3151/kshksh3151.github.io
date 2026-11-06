@@ -7,8 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.awardsNscholarships reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="awards-page">
 
+  {% for post in site.awardsNscholarships reversed %}
+    <div class="award-entry">
+      {% include archive-single.html %}
+    </div>
+  {% endfor %}
 
+</div>

@@ -379,3 +379,24 @@
     margin-bottom: 0.15em;
   }
 }
+
+/*
+   Awards page only
+   ========================================================================== */
+
+.awards-page {
+
+  .award-entry {
+    margin-bottom: 1.0em;
+  }
+
+  .award-entry .archive__item-title {
+    margin-top: 0 !important;
+    margin-bottom: 0.2em;
+  }
+
+  .award-entry .archive__item p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
