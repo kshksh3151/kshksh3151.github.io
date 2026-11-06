@@ -1,9 +1,9 @@
 ---
 title: "[Tutoring] Physical Chemistry I, II / Organic Chemistry I, II / Multivariable Calculus"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate"
 permalink: /teaching/tutoring
-venue: "DGIST, Department of Chemistry"
-date: 2022-09-01
+venue: "DGIST"
+date: 
 location: "Daegu, Republic of Korea"
 ---
