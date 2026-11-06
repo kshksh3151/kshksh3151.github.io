@@ -1,7 +1,7 @@
 ---
 title: "[Tutoring] Physical Chemistry I, II / Organic Chemistry I, II / Multivariable Calculus"
 collection: teaching
-type: "Undergraduate"
+type: "Undergraduate Courses"
 permalink: /teaching/tutoring
 venue: "DGIST"
 date: 2023-01-01

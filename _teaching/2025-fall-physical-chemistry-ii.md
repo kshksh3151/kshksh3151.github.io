@@ -1,5 +1,5 @@
 ---
-title: "[Teaching Assistant] Physical Chemistry II"
+title: "[TA] Physical Chemistry II"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-physical-chemistry-ii
