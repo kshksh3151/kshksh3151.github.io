@@ -338,13 +338,15 @@
     padding-left: 1.6em;
   }
 
-  /* Education / Skills */
+  /* Default item spacing */
   .cv-list > li {
-    margin-bottom: 0.35em;
+    margin-top: 0 !important;
+    margin-bottom: 0.6em !important;
   }
 
   /* Publications / Awards / Teaching */
   .cv-item {
+    margin-top: 0 !important;
     margin-bottom: 0.6em !important;
   }
 
@@ -359,14 +361,31 @@
 
   .cv-item-description {
     margin: 0 !important;
+    padding: 0 !important;
 
     p {
       margin: 0 !important;
+      padding: 0 !important;
+      line-height: 1.4;
     }
+
+    p + p {
+      margin-top: 0.15em !important;
+    }
+  }
+
+  /* Teaching-specific internal spacing */
+  .cv-item-meta + .cv-item-description {
+    margin-top: 0 !important;
+  }
+
+  .cv-item-description strong {
+    display: inline;
   }
 
   /* Talks */
   .cv-talk-item {
+    margin-top: 0 !important;
     margin-bottom: 0.6em !important;
   }
 
