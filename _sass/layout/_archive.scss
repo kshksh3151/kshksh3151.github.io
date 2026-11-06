@@ -246,25 +246,31 @@
   }
 }
 
-
 /*
-   Talks only
+   Talks page only
    ========================================================================== */
 
-.talk__item {
-  padding-top: 1.2em;
+.talks-page {
 
-  .archive__item-title {
-    margin-top: 0;
-    margin-bottom: 0.15em;
+  /* Talk -> next talk */
+  .talk-entry {
+    margin-bottom: 1.2em;
   }
 
-  .page__meta {
-    margin: 0 0 0.2em;
+  /* Conference title */
+  .talk-entry .archive__item-title {
+    margin-top: 0 !important;
+    margin-bottom: 0.3em !important;
   }
 
-  .archive__item-excerpt {
-    margin: 0;
+  /* Date */
+  .talk-entry .page__meta {
+    margin: 0 0 0.25em !important;
+  }
+
+  /* Oral / Poster Presentation */
+  .talk-entry .archive__item-excerpt {
+    margin: 0 !important;
   }
 }
 
