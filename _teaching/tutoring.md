@@ -1,11 +1,9 @@
 ---
-title: "[Tutoring] Physical Chemistry I"
+title: "[Tutoring] Physical Chemistry I, II / Organic Chemistry I, II / Multivariable Calculus"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-fall-physical-chemistry-i
+permalink: /teaching/tutoring
 venue: "DGIST, Department of Chemistry"
 date: 2022-09-01
 location: "Daegu, Republic of Korea"
 ---
-
-Tutoring for the Physical Chemistry I course at DGIST.
