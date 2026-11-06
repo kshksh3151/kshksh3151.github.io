@@ -407,17 +407,25 @@
 
 .teaching-page {
 
+  /* Teaching item -> next item */
   .teaching-entry {
-    margin-bottom: 1.0em;
+    margin-bottom: 1.2em;
   }
 
+  /* Course title */
   .teaching-entry .archive__item-title {
     margin-top: 0 !important;
-    margin-bottom: 0.2em;
+    margin-bottom: 0.3em !important;
   }
 
+  /* Course info + description */
   .teaching-entry .archive__item p {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 0 !important;
+    margin-bottom: 0.25em !important;
+  }
+
+  /* Last paragraph in each teaching item */
+  .teaching-entry .archive__item p:last-child {
+    margin-bottom: 0 !important;
   }
 }
